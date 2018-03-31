@@ -1,2 +1,5 @@
 # QCM
-QCM en ligne avec bottle
+
+Créer vos QCM en ligne avec bottle et python.
+
+
