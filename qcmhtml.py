@@ -4,7 +4,7 @@ import random
 
 
 #importation des qcm
-with open('qcm.txt', 'rb') as fp:
+with open('qcm.txt', 'r') as fp:
 	
 	qcm = json.load(fp)
 
