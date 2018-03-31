@@ -4,7 +4,7 @@ Créer vos QCM en ligne avec bottle et python.
 
 ## Création d'un QCM
 
-pour ajouter une question, modifiez "manuellement" le fichier qcm.txt, ou utilisez le script python serialyse_qcm2.py .
+Pour ajouter une question, modifiez "manuellement" le fichier qcm.txt, ou utilisez le script python serialyse_qcm2.py .
 
 Chaque question de QCM est une liste : ["énoncé de la question", {1:"reponse 1", 2:"reponse 2", 3:"reponse 3", 4:"reponse 4"}, [2,3]]
 
